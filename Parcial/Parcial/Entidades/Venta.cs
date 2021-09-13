@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Parcial.Entidades
 {
-    class Venta
+    public class Venta
+
     {
+        int id_producto;
+        string nombre_producto;
+        string descripcion_producto;
+        double precio_producto;
+        int cantiddad_producto;
+
+
+
+
+
     }
 }

@@ -8,5 +8,8 @@ namespace Parcial.Negocio
 {
     class ClsUsuario
     {
+        Tostring nombre = "Ludwin Lara";
+       
+
     }
 }

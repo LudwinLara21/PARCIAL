@@ -8,5 +8,10 @@ namespace Parcial.Negocio
 {
     class ClsVenta
     {
+
+
+        String Nombre;
+        Double Contraseña
+
     }
 }
